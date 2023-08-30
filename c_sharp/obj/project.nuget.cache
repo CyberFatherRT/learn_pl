@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pBxVSLnb59IJOU/WLwFz1LaMySl0+wJvS0X/DNkqoq/yEkDedSCVDJk2ElEcem6MRmxIJ7bDF249Tqt9q3ONFQ==",
+  "success": true,
+  "projectFilePath": "/home/cyberfather/personal/learn_pl/c_sharp/c_sharp.csproj",
+  "expectedPackageFiles": [
+    "/home/cyberfather/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
